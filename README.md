@@ -18,7 +18,7 @@ JSON Array : Is a collection of values in order inside [ ] separated with , (com
 
 Rules
     -"text" field must be 0 up to 140 characters
-    -“user” field must contain a unique "id" ως positive integer and “name”, “screen_name”, “location” as strings .
+    -“user” field must contain a unique "id" as positive integer and “name”, “screen_name”, “location” as strings .
     -“created_at” must have form “Day_name MMM DD XX:XX:XX YYYY” where Day_name = Δευτέρα, Τρίτη, κ.ο.κ., M = Month,
     D = Day, XX:XX:XX the form of timestamp and Y = Year.
     -“id_str” must be string and UNIQUE.
