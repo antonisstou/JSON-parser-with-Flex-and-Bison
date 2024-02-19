@@ -1,0 +1,30 @@
+{
+	"created_at": "Thu Apr 06 15:24:15 +0000 2017",
+	"id_str": "850006245121695744",
+	"text": "1\/ Today we\u2019re sharing our vision for the future of the Twitter API platform! \nhttps:\/\/t.co\/XweGngmx1P On January 5 2019 Japanese billionare Yusaku Maezawa made a tweet in which he promised to give away 100 million yen ($924.3k USD) between 100 random individuals who followed his account and retweeted the tweet. The tweet quickly grew popular in Japan, and surpassed Carter Wilkerson's HELP ME PLEASE. A MAN NEEDS HIS NUGGS tweet within under 24 hours. Carter Wilkerson tweeted Wendy's asking how many retweets he needed for a year of free chicken nuggets. When Wendy's replied with 18 Million, he accepted the challenge. The tweet received unlikely support from several major companies including Microsoft, Amazon and Google, prompting the hashtag #NuggsForCarter and propelling the tweet to become the most-retweeted of all time within 34 days, at which point Wendy's gave him a year of free nuggets. Ellen DeGeneres's star-studded selfie from the 86th Academy Awards includes Bradley Cooper, Jennifer Lawrence, Brad Pitt, Angelina Jolie, Kevin Spacey, Julia Roberts, Channing Tatum, Meryl Streep, Lupita Nyong'o and a few others. Within 35 minutes, the tweet surpassed Barack Obama's Four more years tweet to become the then most-retweeted tweet of all time with over 800k.",
+	"user": {
+		"id":2244994945,
+		"name": "Twitter Dev",
+		"screen_name": "TwitterDev",
+		"location": "Internet",
+		"url": "https:\/\/dev.twitter.com\/",
+		"description": "Your official source for Twitter Platform news, updates & events. Need technical help? Visit https:\/\/twittercommunity.com\/ \u2018\ufe0f #TapIntoTwitter"
+	},
+	"place": {
+	},
+	"entities": {
+		"hashtags": [
+		],
+		"urls": [
+			{
+				"url": "https:\/\/t.co\/XweGngmx1P",
+				"unwound": {
+					"url": "https:\/\/cards.twitter.com\/cards\/18ce53wgo4h\/3xolc",
+					"title": "Building the Future of the Twitter API Platform"
+				}
+			}
+		],
+		"user_mentions": [
+		]
+	}
+}
